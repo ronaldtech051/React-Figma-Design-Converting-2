@@ -1,7 +1,7 @@
 const nav = () => {
   return (
     <nav>
-        <div className="logo"><h1>shiv mahobia</h1></div>
+        <div className="logo"><h1>shiv</h1></div>
         
     </nav>
   )
