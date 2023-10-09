@@ -1,13 +1,14 @@
+import styles from './Nav.module.css'
 const Nav = () => {
   return (
-    <nav className="container">
+    <nav className={styles.nav}>
       <div className="logo">
         <h3>Shiv Mahobia</h3>
       </div>
       <ul>
         <li>Home</li>
         <li>About</li>
-        <li>Link</li>
+        <li>Contact</li>
       </ul>
     </nav>
   );

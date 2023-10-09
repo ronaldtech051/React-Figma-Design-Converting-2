@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     height: 72px;
+    padding: 0 10px;
 }
 
 .nav ul{
