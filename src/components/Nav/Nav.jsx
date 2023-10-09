@@ -1,7 +1,7 @@
 import styles from './Nav.module.css'
 const Nav = () => {
   return (
-    <nav className={styles.nav}>
+    <nav className={`${styles.nav} container`}>
       <div className="logo">
         <h3>Shiv Mahobia</h3>
       </div>
